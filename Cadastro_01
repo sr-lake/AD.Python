@@ -1,0 +1,60 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled0.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyMdKbLs+uJvMtBu9v4YtER1",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/sr-lake/AD.Python/blob/main/Cadastro_01\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "xcjy6lJu8Pb5",
+        "outputId": "d34f2599-8813-4223-f8bc-157ff7b7e1b5"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Qual o seu Nome? Gustavo\n",
+            "Qual a sua Idade? 35\n",
+            "Qual o seu Peso?92.5\n",
+            "Gustavo 35 92.5\n"
+          ]
+        }
+      ],
+      "source": [
+        "nome = input('Qual o seu Nome? ')\n",
+        "idade = input('Qual a sua Idade? ')\n",
+        "peso = input('Qual o seu Peso?')\n",
+        "print(nome,idade,peso)"
+      ]
+    }
+  ]
+}
