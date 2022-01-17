@@ -6,7 +6,7 @@
       "name": "Untitled0.ipynb",
       "provenance": [],
       "collapsed_sections": [],
-      "authorship_tag": "ABX9TyOfKEIA8b8pumNoyAS29418",
+      "authorship_tag": "ABX9TyOG7r81oZvWgO6viNKep4Dh",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -30,7 +30,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 1,
+      "execution_count": null,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -70,7 +70,7 @@
         "id": "TD88SsgUt3Ns",
         "outputId": "16a4440e-a2c7-418f-911a-cbaa7f74f8ba"
       },
-      "execution_count": 8,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -97,7 +97,7 @@
         "id": "GaGGwmL8v3Am",
         "outputId": "8840a9c1-3714-437e-e6b6-a9771a4754e6"
       },
-      "execution_count": 16,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -107,6 +107,33 @@
             "Mes =11\n",
             "Ano =1986\n",
             "Você nasceu no dia 25  de  11  de 1986  . Correto?\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "n1 = input('Primeiro Número:')\n",
+        "n2 = input('Segundo Número:')\n",
+        "print('A soma é:' ,(n1+n2))"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "s3SJkWqeoZ0q",
+        "outputId": "fa8cc64b-0a62-4e97-f6af-454d2e5b86ff"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Primeiro Número:6\n",
+            "Segundo Número:3\n",
+            "A soma é: 63\n"
           ]
         }
       ]
